@@ -1,0 +1,4 @@
+- BirthdayCard(simple layout)
+- CoffeeOrdering(user input)
+- ScoreKeeper(layout styles)
+- ud839_Miwok(multiscreen app, listview and array adapter)
